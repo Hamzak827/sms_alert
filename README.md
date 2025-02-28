@@ -16,5 +16,15 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 
+## App Screenshots 📱
+
+### Home Screen
+![Home Screen](assets/screenshots/home_screen.png)
+### Toady Missed Calls/Sent Sms Screen
+![Toady mised calls/sent sms Screen](assets/screenshots/today_missedcalls_screen.png)
+### Message Setting Screen
+![Message Setting Screen](assets/screenshots/message_setting_screen.png)
+
+
 
 
